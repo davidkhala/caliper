@@ -16,26 +16,11 @@ coverage
 node_modules
 
 # Benchmarks
-/benchmark/drm
-/benchmark/simple
 
 # Scripts
 /scripts
 
-# Common
-/src/comm/client
-/src/comm/template
-/src/comm/bench-flow.js
-/src/comm/blockchain-interface.js
-/src/comm/blockchain.js
-/src/comm/monitor-docker.js
-/src/comm/monitor-interface.js
-/src/comm/monitor-process.js
-/src/comm/monitor.js
-/src/comm/report.js
-
 # Plugins
-/src/fabric
 /src/gui
 /src/iroha
 /src/sawtooth/
